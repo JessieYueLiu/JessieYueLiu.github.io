@@ -15,3 +15,6 @@ author_profile: true
 5. <b>Yue Liu</b> and Wing-Cheong Lo (2019) Analysis of spontaneous emergence of cell polarity with delayed negative feedback,  <i>Mathematical Biosciences and Engineering</i>, 16, 1392-1413. <br>
 [[Link]](https://doi.org/10.3934/mbe.2019068)
 
+# Conferences
+* June 2020 The SIAM Conference on the Life Sciences, California, U.S.
+* Dec. 2018 The Conference of Mathematics and Life Science, Guangzhou, China.
