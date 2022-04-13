@@ -5,9 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+<b>Yue Liu</b> and Wing-Cheong Lo (2022) Stability analysis and optimal control of production-limiting disease in farm with two vaccines, <i>Discrete and Continuous Dynamical Systems-B</i>, 27, 619-638. <br>
+[[Link]](https://doi.org/10.3934/dcdsb.2021058)
 
 {% include base_path %}
 
