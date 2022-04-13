@@ -15,8 +15,5 @@ Honors and Awards
 ------
 * 2020 – 2021 Recipient of Research Tuition Scholarship of City University of Hong Kong
 * May. 2015 Mathematical Contest in Modeling of Central China, First Prize
+* 2013 – 2015 Merit Student in Huazhong Agricultural University
 
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
