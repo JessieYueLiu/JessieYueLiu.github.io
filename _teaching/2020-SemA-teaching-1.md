@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "CityU, MA Department"
-date:  
+date:  2020-09-01
 --
 
 This is a description of a teaching experience. You can use markdown like any other post.
@@ -18,9 +18,3 @@ Heading 1
 2018/19 Semester A MA1300 Enhanced Calculus and Linear Algebra I
 2017/18 Semester B MA1201 Calculus and Basic Linear Algebra II
 
-
-Heading 2
-======
-
-Heading 3
-======
