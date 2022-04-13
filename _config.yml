@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "You Zu"
+title                    : "LIU Yue Jessie"
 title_separator          : "-"
-name                     : &name "You Zu"
-description              : &description "Ph.D. candidate, Industrial Systems and Engineering, University of Minnesota"
+name                     : &name "LIU Yue Jessie"
+description              : &description "Ph.D., Mathematics, City University of Hong Kong"
 url                      : https://you-zu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "you-zu/you-zuc.github.io"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "You Zu"
+  name             : "LIU Yue Jessie"
   avatar           : "profile.jpg"
   location         : "Minneapolis"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=0gnmgL4AAAAJ&hl=en"
   email            : "zu000002@umn.edu"
  
-  github           : "you-zu"
+  github           : "JessieYueLiu"
   google_plus      :
   keybase          :
   instagram        :
