@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "LIU Yue Jessie"
   avatar           : "profile.jpg"
-  location         : "HK"
+  location         : "N.T., Hong Kong"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=0gnmgL4AAAAJ&hl=en"
-  email            : "zu000002@umn.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=CSGybXEAAAAJ&hl=zh-CN"   
+  email            : "yue.liu@my.cityu.edu.hk"
  
   github           : "JessieYueLiu"
   google_plus      :
@@ -93,7 +93,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/you-zu-b64a06174/"
+  linkedin         : #"https://www.linkedin.com/in/you-zu-b64a06174/"
   steam            :
   tumblr           :
   vine             :
