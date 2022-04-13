@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Homepage of Liu Yue Jessie"
+title                    : "You Zu"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "You Zu"
+description              : &description "Ph.D. candidate, Industrial Systems and Engineering, University of Minnesota"
+url                      : https://you-zu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "you-zu/you-zuc.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,36 +80,22 @@ analytics:
 
 # Site Author
 author:
-  name             : "LIU Yue Jessie"
-  avatar           : "/images/profile.png"
-  bio              : "PhD, Mathematics"
-  location         : "Hong Kong"
+  name             : "You Zu"
+  avatar           : "profile.jpg"
+  location         : "Minneapolis"
   employer         :
-  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholars.cityu.edu.hk/en/persons/yue-liu(2a505150-8b55-44ab-9fd2-62b031cd41b8).html"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "JessieYueLiu"
+  googlescholar    : "https://scholar.google.com/citations?user=0gnmgL4AAAAJ&hl=en"
+  email            : "zu000002@umn.edu"
+ 
+  github           : "you-zu"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  linkedin         : "https://www.linkedin.com/in/you-zu-b64a06174/"
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
@@ -179,9 +165,6 @@ collections:
     output: true
     permalink: /:collection/:path/
   publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
     output: true
     permalink: /:collection/:path/
   talks:
