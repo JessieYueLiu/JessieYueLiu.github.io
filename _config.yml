@@ -11,9 +11,9 @@ title                    : "LIU Yue Jessie"
 title_separator          : "-"
 name                     : &name "LIU Yue Jessie"
 description              : &description "Ph.D., Mathematics, City University of Hong Kong"
-url                      : https://you-zu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://JessieYueLiu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "you-zu/you-zuc.github.io"
+repository               : "JessieYueLiu/JessieYueLiu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "LIU Yue Jessie"
   avatar           : "profile.jpg"
-  location         : "Hk"
+  location         : "HK"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=0gnmgL4AAAAJ&hl=en"
   email            : "zu000002@umn.edu"
