@@ -26,8 +26,8 @@ author_profile: true
     </thead>
     <tbody>
         <tr>
-          <td valign="top"><img src='/images/龙脊1.jpg' alt="龙脊1"  width=250 height=300/></td>
-          <td valign="top"><img src='/images/龙脊2.jpg' alt="龙脊2"  width=250 height=300/></td>
+          <td valign="top"><img src='/images/龙脊1.jpg' alt="龙脊2"  width=250 height=300/></td>
+          <td valign="top"><img src='/images/龙脊2.jpg' alt="龙脊1"  width=250 height=300/></td>
         </tr>
     </tbody>
 </table>
