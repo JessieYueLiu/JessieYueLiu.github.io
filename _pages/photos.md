@@ -1,2 +1,2 @@
-Photos in HK
-profile.jpg
+* Photos in HK
+images/profile.jpg
