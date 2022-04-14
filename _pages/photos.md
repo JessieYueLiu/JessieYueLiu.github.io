@@ -36,7 +36,7 @@ author_profile: true
 <table>
     <thead>
         <tr>
-            <th colspan="2">New Year's Eve (TST,HK)</th>
+             <th colspan="2">Drogan'back (Hong Kong)</th>
         </tr>
     </thead>
     <tbody>
