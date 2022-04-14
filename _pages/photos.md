@@ -21,7 +21,7 @@ author_profile: true
 <table>
     <thead>
         <tr>
-            <th colspan="2">Drogan's back (Hong Kong)</th>
+            <th colspan="2">Dragon's back (Hong Kong)</th>
         </tr>
     </thead>
     <tbody>
