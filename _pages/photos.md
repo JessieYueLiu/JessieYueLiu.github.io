@@ -33,7 +33,7 @@ author_profile: true
 </table>
 
 
-<table>
+<!-- <table>
     <thead>
         <tr>
              <th colspan="2">New Year's Eve (TST,HK)</th>
@@ -46,5 +46,5 @@ author_profile: true
         </tr>
     </tbody>
 </table>
-
+-->
 
