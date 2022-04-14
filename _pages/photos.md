@@ -1,2 +1,2 @@
 * Photos in HK
-"profile.jpg"
+![](../images/profile.jpg)
