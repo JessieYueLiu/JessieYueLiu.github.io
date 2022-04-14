@@ -6,11 +6,11 @@ author_profile: true
 ---
 <table>
   <tr>
-    <td>Lao He Kou1</td>
-    <td>Lao He Kou2</td>
+    <td>Lao He Kou 1</td>
+    <td>Lao He Kou 2</td>
   </tr>
   <tr>
-  <td valign="top"><img src='/images/老河口1.jpg' alt="Lao He Kou1" width=250 height=300/></td>
+  <td valign="top"><img src='/images/老河口1.jpg' alt="Lao He Kou1"/></td>
   <td valign="top"><img src='/images/老河口2.jpg' alt="Lao He Kou2" width=250 height=300/></td>
   </tr>
 </table>
