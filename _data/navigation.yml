@@ -5,7 +5,10 @@ main:
   
   - title: "Teaching"
     url: /teaching/    
-          
+              
+  - title: "Photos"
+    url: /year-archive/
+    
   - title: "Blog Posts"
     url: /year-archive/
     
