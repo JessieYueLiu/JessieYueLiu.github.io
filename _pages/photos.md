@@ -5,12 +5,16 @@ permalink: /photos/
 author_profile: true
 ---
 <table>
-  <tr>
-    <td>Lao He Kou 1</td>
-    <td>Lao He Kou 2</td>
-  </tr>
-  <tr>
-  <td valign="top"><img src='/images/老河口1.jpg' alt="Lao He Kou1"/></td>
-  <td valign="top"><img src='/images/老河口2.jpg' alt="Lao He Kou2" width=250 height=300/></td>
-  </tr>
+    <thead>
+        <tr>
+            <th colspan="2">Lao He Kou</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+          <td valign="top"><img src='/images/老河口1.jpg' alt="Lao He Kou1"/></td>
+          <td valign="top"><img src='/images/老河口2.jpg' alt="Lao He Kou2" width=250 height=300/></td>
+        </tr>
+    </tbody>
 </table>
+
