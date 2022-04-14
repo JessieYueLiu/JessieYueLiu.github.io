@@ -26,8 +26,8 @@ author_profile: true
     </thead>
     <tbody>
         <tr>
-          <td valign="top"><img src='/images/龙脊1.jpg' alt="Lao He Kou1" width=250 height=300/></td>
-          <td valign="top"><img src='/images/龙脊2.jpg' alt="Lao He Kou2" width=250 height=300/></td>
+          <td valign="top"><img src='/images/龙脊1.jpg'  width=250 height=300/></td>
+          <td valign="top"><img src='/images/龙脊2.jpg'  width=250 height=300/></td>
         </tr>
     </tbody>
 </table>
@@ -36,7 +36,7 @@ author_profile: true
 <table>
     <thead>
         <tr>
-            <th colspan="2">New Year's Eve(TST,HK)</th>
+            <th colspan="2">New Year's Eve (TST,HK)</th>
         </tr>
     </thead>
     <tbody>
