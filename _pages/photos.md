@@ -15,7 +15,7 @@ author_profile: true
     <tbody>
         <tr>
           <td valign="top"><img src='/images/HH&TST1.jpg' alt="HH&TST1" width=250 height=300/></td>
-          <td valign="top"><img src='/images/HH&TST2.jpg' alt="HH&TST2" width=250 height=300/></td>
+          #( <td valign="top"><img src='/images/HH&TST2.jpg' alt="HH&TST2" width=250 height=300/></td> )
         </tr>
     </tbody>
 </table>
