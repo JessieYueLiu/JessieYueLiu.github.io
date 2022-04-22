@@ -6,7 +6,8 @@ author_profile: true
 '*' denotes corresponding author
 1. <b>Yue Liu</b>* and Wing-Cheong Lo (2021) Stability analysis and optimal control of production-limiting disease in farm with two vaccines, <b><i>Discrete and Continuous Dynamical Systems-B</i></b>, 27, 619-638. <br>
 [[Link]](https://doi.org/10.3934/dcdsb.2021058)
-2. <b>Yue Liu</b>* and Wing-Cheong Lo (2021) Deterministic and stochastic analysis for different types of regulations in the spontaneous emergence of cell polarity,  <b><i>Chaos, Solitons and Fractals</i></b>, 144, 110620. <br>
+2. <b>Yue Liu</b>* and Wing-Cheong Lo (2021) Deterministic and stochastic analysis for different types of regulations in the spontaneous emergence of cell polarity, 
+ <b><i>Chaos, Solitons and Fractals</i></b>, 144, 110620. <br>
 [[Link]](https://doi.org/10.1016/j.chaos.2020.110620)
 3. <b>Yue Liu</b>*, Ioannis Magouras, and Wing-Cheong Lo (2021) Modelling and analyzing the potential controls for <i>Neospora caninum</i> infection in dairy cattle using an epidemic approach, <b><i>Complexity</i>/b>, 2021, 5529987. <br>
 [[Link]](https://doi.org/10.1155/2021/5529987)
