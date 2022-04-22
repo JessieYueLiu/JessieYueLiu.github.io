@@ -9,7 +9,7 @@ author_profile: true
  <table>
     <thead>
         <tr>
-             <th colspan="1">Night(HH&TST)</th>
+             <th colspan="2">Night(HH&TST)</th>
         </tr>
     </thead>
     <tbody>
