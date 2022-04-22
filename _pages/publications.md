@@ -22,5 +22,6 @@ author_profile: true
 ## Honors and Awards
 * 2020 – 2021 Recipient of Research Tuition Scholarship of City University of Hong Kong
 * May. 2015 Mathematical Contest in Modeling of Central China, First Prize
+* Dec. 2014 China Undergraduate Mathematical Contest in Modeling, Third Prize
 * 2013 – 2015 Merit Student in Huazhong Agricultural University
 
