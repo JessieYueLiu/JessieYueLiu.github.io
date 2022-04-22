@@ -33,6 +33,22 @@ author_profile: true
 </table>
 
 
+
+<table>
+    <thead>
+        <tr>
+            <th colspan="2">New Year Eve (Hong Kong)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+          <td valign="top"><img src='/images/NewYearEve1.jpg' alt="NewYearEve1"  width=250 height=300/></td>
+          <td valign="top"><img src='/images/NewYearEve2.jpg' alt="NewYearEve2"  width=250 height=300/></td>
+        </tr>
+    </tbody>
+</table>
+
+
 <!-- <table>
     <thead>
         <tr>
