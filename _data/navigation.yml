@@ -1,16 +1,16 @@
 # main links links
-main:
+main: 
   - title: "Publications"
     url: /publications/
   
   - title: "Teaching"
     url: /teaching/    
-    
-  - title: "Blog Posts"
-    url: /year-archive/
       
   - title: "ML study"
     url: /machinelearning/
+
+  - title: "Blog Posts"
+    url: /year-archive/
     
  - title: "Photos"
     url: /photos/
