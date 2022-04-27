@@ -13,7 +13,7 @@ main:
     url: /year-archive/
       
   - title: "ML study"
-    url: /Machine Learning/
+    url: /machinelearning/
     
   - title: "Guide"
     url: /markdown/
