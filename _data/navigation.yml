@@ -5,15 +5,15 @@ main:
   
   - title: "Teaching"
     url: /teaching/    
-              
-  - title: "Photos"
-    url: /photos/
+          
+  - title: "ML study"
+    url: /machinelearning/
     
   - title: "Blog Posts"
     url: /year-archive/
       
-  - title: "ML study"
-    url: /machinelearning/
+  - title: "Photos"
+    url: /photos/
     
   - title: "Guide"
     url: /markdown/
