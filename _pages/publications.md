@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 '*' denotes corresponding author
-1. <b>Yue Liu</b>* and Wing-Cheong Lo (2021) Stability analysis and optimal control of production-limiting disease in farm with two vaccines, <b><i>Discrete and Continuous Dynamical Systems-B</i></b>, 27, 619-638. <br>
+1. <font>Yue Liu</b>* and Wing-Cheong Lo (2021) Stability analysis and optimal control of production-limiting disease in farm with two vaccines, <font color=Blue><i>Discrete and Continuous Dynamical Systems-B</i></font>, 27, 619-638. <br>
 [[Link]](https://doi.org/10.3934/dcdsb.2021058)
 2. <b>Yue Liu</b>* and Wing-Cheong Lo (2021) Deterministic and stochastic analysis for different types of regulations in the spontaneous emergence of cell polarity, 
  <b><i>Chaos, Solitons and Fractals</i></b>, 144, 110620. （Top）<br> 
