@@ -1,4 +1,6 @@
 # main links links
+# - title: "Guide"
+#   url: /markdown/
 main:
   - title: "Publications"
     url: /publications/
@@ -15,5 +17,4 @@ main:
   - title: "Photos"
     url: /photos/
     
-  - title: "Guide"
-    url: /markdown/
+ 
