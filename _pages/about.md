@@ -14,9 +14,8 @@ I am working as a researcher at City University of Hong Kong. Prior to that, I o
 
 
 
-I like the sentence: to be right on keeping track. <br>
-
+I like the sentence: to be right on keeping track. Like the master Oogway in《Kung Fu Panda》said: <br>
 Yesterday is history. <br>
-Tomorrow is mystory. <br>
-Today is a gift. <br>
-That's why it is called present.
+Tomorrow is a mystory. <br>
+But today is a gift. <br>
+That's why it is called the PRESENT.
