@@ -4,14 +4,14 @@ permalink: /publications/
 author_profile: true
 ---
 '*' denotes corresponding author
-1. <font color=Blue>Yue Liu</font>* and Wing-Cheong Lo (2021) Stability analysis and optimal control of production-limiting disease in farm with two vaccines, <b><i>Discrete and Continuous Dynamical Systems-B</i></b>, 27, 619-638. <br>
+1. <font color=Blue>Yue Liu*</font> and Wing-Cheong Lo (2021) Stability analysis and optimal control of production-limiting disease in farm with two vaccines, <b><i>Discrete and Continuous Dynamical Systems-B</i></b>, 27, 619-638. <br>
 [[Link]](https://doi.org/10.3934/dcdsb.2021058)
-2. <font color=Blue>Yue Liu</font>* and Wing-Cheong Lo (2021) Deterministic and stochastic analysis for different types of regulations in the spontaneous emergence of cell polarity, 
+2. <font color=Blue>Yue Liu*</font> and Wing-Cheong Lo (2021) Deterministic and stochastic analysis for different types of regulations in the spontaneous emergence of cell polarity, 
  <b><i>Chaos, Solitons and Fractals</i></b>, 144, 110620. （Top）<br> 
 [[Link]](https://doi.org/10.1016/j.chaos.2020.110620)
-3. <font color=Blue>Yue Liu</font>*, Ioannis Magouras, and Wing-Cheong Lo (2021) Modelling and analyzing the potential controls for <i>Neospora caninum</i> infection in dairy cattle using an epidemic approach, <b><i>Complexity</i></b>, 2021, 5529987. <br>
+3. <font color=Blue>Yue Liu*</font>, Ioannis Magouras, and Wing-Cheong Lo (2021) Modelling and analyzing the potential controls for <i>Neospora caninum</i> infection in dairy cattle using an epidemic approach, <b><i>Complexity</i></b>, 2021, 5529987. <br>
 [[Link]](https://doi.org/10.1155/2021/5529987)
-4. <font color=Blue>Yue Liu</font>*, Michael P. Reichel, and Wing-Cheong Lo (2020) Combined control evaluation for <i>Neospora caninum</i> infection in dairy: Economic point of view coupled with population dynamics, <b><i>Veterinary Parasitology</i></b>, 277, 108967. （Top） <br> 
+4. <font color=Blue>Yue Liu*</font>, Michael P. Reichel, and Wing-Cheong Lo (2020) Combined control evaluation for <i>Neospora caninum</i> infection in dairy: Economic point of view coupled with population dynamics, <b><i>Veterinary Parasitology</i></b>, 277, 108967. （Top） <br> 
 [[Link]](https://doi.org/10.1016/j.vetpar.2019.108967)
 5. <font color=Blue>Yue Liu</font> and Wing-Cheong Lo* (2019) Analysis of spontaneous emergence of cell polarity with delayed negative feedback,  <b><i>Mathematical Biosciences and Engineering</i></b>, 16, 1392-1413. <br>
 [[Link]](https://doi.org/10.3934/mbe.2019068)
