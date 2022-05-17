@@ -17,11 +17,11 @@ author_profile: true
 [[Link]](https://doi.org/10.3934/mbe.2019068)
 
 ## Conferences
-* June 2020 The SIAM Conference on the Life Sciences, California, U.S.(online)
-* Dec. 2018 The Conference of Mathematics and Life Science, Guangzhou, China.
+* June 2020 &nbsp; The SIAM Conference on the Life Sciences, California, U.S.(online)
+* Dec. 2018 &nbsp; The Conference of Mathematics and Life Science, Guangzhou, China.
 
 ## Honors and Awards
-* 2020 – 2021 Recipient of Research Tuition Scholarship of City University of Hong Kong
-* May. 2015 Mathematical Contest in Modeling of Central China, First Prize
-* Dec. 2014 China Undergraduate Mathematical Contest in Modeling, Third Prize
+* 2020 – 2021 &nbsp; Recipient of Research Tuition Scholarship of City University of Hong Kong
+* May. 2015 &nbsp;&nbsp;&nbsp;&nbsp;  Mathematical Contest in Modeling of Central China, First Prize
+* Dec. 2014 &nbsp;&nbsp;&nbsp;&nbsp;  China Undergraduate Mathematical Contest in Modeling, Third Prize
 
