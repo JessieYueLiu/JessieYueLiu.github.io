@@ -13,8 +13,7 @@ I am working as a researcher at City University of Hong Kong. Prior to that, I o
 
 
 
-
-I like the sentence: to be right on keeping track. Like the master Oogway in《Kung Fu Panda》said: <br>
+I am a persistent and ambitious person. I did interesting modleing and analyzing work on natural phenomena. My transition from information and computing science to applied math research showed that, I am a fast-learner with strong analytical and problem solving skills. I love challenging jobs that require intense working and critical thinking. The sense of accomplishment would always be one of the most important aspects that I am looking for in my career. I like the sentence: to be right on keeping track. Like the master Oogway in《Kung Fu Panda》said: <br>
 <font color=Blue> Yesterday is history. <br>
 Tomorrow is a mystery. <br>
 But today is a gift. <br>
