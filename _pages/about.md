@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am working as a researcher at City University of Hong Kong. Prior to that, I obtained my Ph.D. in Mathematics at [City University of Hong Kong](https://www.cityu.edu.hk/), under the supervision of [Prof. Lo Wing-Cheong](https://www.cityu.edu.hk/stfprofile/wingclo.htm). My interest focuses on applied mathematics related to computational finance and bioinformatics. I am particularly interested in mathematical modelling, data analyzing, dynamics prediction, and control evaluation on natural phenomena either periodic or chaotic, such as economics and epidemics, etc. <br> <br> 
+I am working as a researcher at City University of Hong Kong. Prior to that, I obtained my Ph.D. in Mathematics at [City University of Hong Kong](https://www.cityu.edu.hk/), under the supervision of [Prof. Lo Wing-Cheong](https://www.cityu.edu.hk/stfprofile/wingclo.htm). My interest focuses on applied mathematics related to computational finance and bioinformatics. I am particularly interested in mathematical modeling, data analyzing, dynamics prediction, and control evaluation on natural phenomena either periodic or chaotic, such as economics and epidemics, etc. <br> <br> 
 
 
 
 
-I am a persistent and ambitious person. I did interesting modleing and analyzing work on natural phenomena. My transition from information and computing science to applied math research showed that, I am a fast-learner with strong analytical and problem solving skills. I love challenging jobs that require intense working and critical thinking. The sense of accomplishment would always be one of the most important aspects that I am looking for in my career. I like the sentence: to be right on keeping track. Like the master Oogway in《Kung Fu Panda》said: <br>
+I am a persistent and ambitious person. I did interesting modeling and analyzing work on natural phenomena. My transition from information and computing science to applied math research showed that, I am a fast learner with strong analytical and problem-solving skills. I love challenging jobs that require intense work and critical thinking. The sense of accomplishment would always be one of the most important aspects that I am looking for in my career. I like the sentence: to be right on keeping track. Like the master Oogway in《Kung Fu Panda》said: <br>
 <font color=Blue> Yesterday is history. <br>
 Tomorrow is a mystery. <br>
 But today is a gift. <br>
