@@ -25,3 +25,6 @@ author_profile: true
 * May. 2015 &nbsp;&nbsp;&nbsp;&nbsp;  Mathematical Contest in Modeling of Central China, First Prize
 * Dec. 2014 &nbsp;&nbsp;&nbsp;&nbsp;  China Undergraduate Mathematical Contest in Modeling, Third Prize
 
+## Reviwers
+* Chaos, Solitons and Fractals
+* Bulletin of Mathematical Biology
