@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Welcome to Liu's homepage."
 title_separator          : "-"
-name                     : &name "LIU Yue Jessie"
+name                     : &name "Jessie Yue LIU"
 description              : "Ph.D., Mathematics, City University of Hong Kong"
 url                      : https://JessieYueLiu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
