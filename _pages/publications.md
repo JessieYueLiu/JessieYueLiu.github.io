@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 '*' denotes corresponding author
-1. <b>Yue Liu*</b> (2022) Extinction, persistence and density function analysis of a stochastic two-strain disease model with drug resistance mutation, <b><i>Applied Mathematics and Computation</i></b>. Accepted <br>
+1. <b>Yue Liu*</b> (2022) Extinction, persistence and density function analysis of a stochastic two-strain disease model with drug resistance mutation, <b><i>Applied Mathematics and Computation</i></b>, Accepted （Top） <br>
 2. <b>Yue Liu*</b> and Wing-Cheong Lo (2021) Stability analysis and optimal control of production-limiting disease in farm with two vaccines, <b><i>Discrete and Continuous Dynamical Systems-B</i></b>, 27, 619-638. <br>
 [[Link]](https://doi.org/10.3934/dcdsb.2021058)
 3. <b>Yue Liu*</b> and Wing-Cheong Lo (2021) Deterministic and stochastic analysis for different types of regulations in the spontaneous emergence of cell polarity, 
