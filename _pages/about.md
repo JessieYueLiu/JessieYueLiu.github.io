@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am working as a researcher at Hong Kong. Prior to that, I obtained my Ph.D. in Mathematics at [City University of Hong Kong](https://www.cityu.edu.hk/), under the supervision of [Prof. Lo Wing-Cheong](https://www.cityu.edu.hk/stfprofile/wingclo.htm). My research and technic interests focus on federated learning, machine learning, cyber security in FinTech. <br> <br> 
+I am working as a researcher in Hong Kong. Prior to that, I obtained my Ph.D. in Mathematics at [City University of Hong Kong](https://www.cityu.edu.hk/), under the supervision of [Prof. Lo Wing-Cheong](https://www.cityu.edu.hk/stfprofile/wingclo.htm). My research and technic interests focus on federated learning, machine learning, cyber security in FinTech. <br> <br> 
 
 
 
