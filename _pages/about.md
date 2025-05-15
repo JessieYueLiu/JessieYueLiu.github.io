@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am working as a senior engineer in [ASTRI Hong Kong](https://techapplied.astri.org/en/). Prior to that, I obtained my Ph.D. in Mathematics at [City University of Hong Kong](https://www.cityu.edu.hk/), under the supervision of [Prof. Lo Wing-Cheong](https://www.cityu.edu.hk/stfprofile/wingclo.htm). My research and technical interests focus on machine learning, deep learning, computer vision and levering AI to solve practical problems. <br> <br> 
+I am working as a senior engineer in [ASTRI Hong Kong](https://techapplied.astri.org/en/). Prior to that, I obtained my Ph.D. in Mathematics at [City University of Hong Kong](https://www.cityu.edu.hk/), under the supervision of [Prof. Lo Wing-Cheong](https://www.cityu.edu.hk/stfprofile/wingclo.htm). My research and technical interests focus on machine learning, deep learning, computer vision and leveraging AI to solve practical problems. <br> <br> 
 
 
 
