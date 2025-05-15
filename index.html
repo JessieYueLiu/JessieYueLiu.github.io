@@ -8,8 +8,8 @@
             .then(response => response.text())
             .then(data => {
                 const settings = jsyaml.load(data);
-                document.getElementById('site-title').textContent = settings.title;
-                document.getElementById('site-name').textContent = settings.name;
+                document.getElementById('title').textContent = settings.title;
+                document.getElementById('name').textContent = settings.name;
             });
     </script>
 </head>
